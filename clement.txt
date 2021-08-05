@@ -7,3 +7,5 @@ I hope I will be dealing with malaria parasite some few days to come on my proje
 I have an exercise which require me to create a new branch on github
 
 Now let me create a conflict commit between master and branch
+
+this is the new line in master
